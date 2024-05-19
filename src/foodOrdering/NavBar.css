@@ -1,0 +1,9 @@
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cart{
+    width: 4rem;
+    height: 1rem;
+}
